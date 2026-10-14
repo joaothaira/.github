@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-I founded ThairaHub to empower creators to build and own their digital future. From developing proprietary software for your services to building a community that scales, ThairaHub provides the tools to make it happen.
+I founded ThairaHub, the company behind Thaira — a GEO platform that makes people's and companies' knowledge discoverable by AI: content for humans, wiki for agents. I'm building it solo, with AI agents, and write about it at joaothaira.com.
 </p>
 
 
